@@ -1,2 +1,1 @@
-git add .
-git commit -m 'My first commit'
+'My first commit'
